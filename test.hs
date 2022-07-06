@@ -2,7 +2,7 @@ module Main where
 
 import System.Exit (exitFailure)
 
--- foo bar
+-- foo
 
 main = do
     putStrLn "This test always passes!"
