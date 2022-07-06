@@ -1,6 +1,6 @@
 module Main where
 
--- foo
+-- foo bar
 
 main = do
     putStrLn "This test always passes!"
