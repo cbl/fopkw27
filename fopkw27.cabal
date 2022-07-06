@@ -1,0 +1,8 @@
+cabal-version:      2.4
+name:               fopkw27
+version:            0.1.0.0
+
+test-suite test
+    type:           exitcode-stdio-1.0
+    main-is:        test.hs
+    build-depends:  base
